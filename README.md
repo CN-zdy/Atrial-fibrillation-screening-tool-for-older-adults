@@ -10,4 +10,4 @@ This is an easy-to-use tool for atrial fibrillation screening in the elderly. Th
       
 Note: All three methods can screen older adults for atrial fibrillation and are suitable for use in a variety of healthcare Settings.
 
-You can access the tool in the following ways:
+You can access the tool in the following ways: http://219.147.100.43:1147/
