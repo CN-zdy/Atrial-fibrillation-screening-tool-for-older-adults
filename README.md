@@ -1,6 +1,6 @@
 # Atrial-fibrillation-screening-tool-for-older-adults
 
-This is an easy-to-use tool for atrial fibrillation screening in the elderly. The tool provides three screening methods:
+This is an easy-to-use tool for atrial fibrillation screening in the elderly (65 years or older). The tool provides three screening methods:
 
   First (LR.mp4): Screening by machine learning model based on age, height, and diastolic blood pressure;
       
